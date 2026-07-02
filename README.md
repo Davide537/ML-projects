@@ -7,7 +7,7 @@ A collection of machine learning projects and coursework, ranging from classical
 | Folder | Description |
 |---|---|
 | [`ML basics`](./ML%20basics) | Coursework notebooks ("Linear Algebra and Optimization for Machine Learning"): logistic regression from scratch, gradient-based optimization, and a Poisson-solver comparison. |
-| [`Internship Deltares`](./Internship%20Deltares) | Research internship code (Julia): LSTM and FRNN surrogate models trained to emulate a 0D lumped lake model, including storm-surge generalization and stability testing. |
+| [`Internship Deltares`](./Internship%20Deltares) | Research internship code (Julia): LSTM and FRNN surrogate models trained to emulate a 0D lumped lake model, including storm-surge generalization and stability testing with the aim of developing accurate and fast weather forecasting. |
 
 ## Internship Deltares
 
